@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+
+    color: white;
+
+}
+
+.NameL{
+
+    color: red;
+    text-align: center;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.Logo{
+    margin-top: 150px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    font-size: 40px;
+    position: static;
+}
+
+.Top_menu a{
+    color: white;
+    text-decoration: none;
+    margin-left: 40px;
+    font-size: 20px;
+    position: static;
+   
+}
+
+.Top_menu a:hover{
+    color: red;
+}
+
+.Top_menu li{
+    margin-bottom: 10px;
+    
+}
+
+.latest{
+
+    Color: rgb(13, 209, 13);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+ 
+    
+
+}
